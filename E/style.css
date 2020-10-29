@@ -1,0 +1,22 @@
+body {
+	font-size: 20px;
+}
+
+.column {
+	float: left;
+	width: 40%;
+	padding: 15px;
+}
+
+.Avril_image {
+	height: 300px;
+	width: 250px;
+	border-radius: 20px;
+}
+
+.yungblud_image {
+	height: 250px;
+	width: 300px;
+	border-radius: 20px;
+	
+}

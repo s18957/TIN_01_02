@@ -1,0 +1,13 @@
+form {
+	background: pink;
+	font-style: normal;
+  font-size: 15px;
+}
+
+.non-mandatory {
+  color: gray;
+}
+
+.mandatory {
+	color: darkblue;
+}
